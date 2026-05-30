@@ -36,3 +36,14 @@ Audit run: 2026-05-30 18:31:32
   Average: 71.6%
   Summary: 2 OK  |  2 WARNING  |  1 CRITICAL
 ============================================
+
+=== Server Usage Report — 2026-05-30 18:58:07 ===
+  db01          91%  [CRITICAL]
+  web02         82%  [WARNING]
+  backup01      77%  [WARNING]
+  cache01       63%  [OK]
+  web01         45%  [OK]
+
+  Average: 71.6%
+  Summary: 2 OK  |  2 WARNING  |  1 CRITICAL
+============================================
