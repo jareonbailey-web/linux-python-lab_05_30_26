@@ -1,0 +1,38 @@
+Audit run: 2026-05-30 18:31:31
+  db01: 91%
+  web02: 82%
+  backup01: 77%
+  cache01: 63%
+  web01: 45%
+  Average: 71.6%
+
+Audit run: 2026-05-30 18:31:32
+  db01: 91%
+  web02: 82%
+  backup01: 77%
+  cache01: 63%
+  web01: 45%
+  Average: 71.6%
+
+
+=== Server Usage Report — 2026-05-30 18:40:40 ===
+  db01          91%  [CRITICAL]
+  web02         82%  [WARNING]
+  backup01      77%  [WARNING]
+  cache01       63%  [OK]
+  web01         45%  [OK]
+
+  Average: 71.6%
+  Summary: 2 OK  |  2 WARNING  |  1 CRITICAL
+============================================
+
+=== Server Usage Report — 2026-05-30 18:49:25 ===
+  db01          91%  [CRITICAL]
+  web02         82%  [WARNING]
+  backup01      77%  [WARNING]
+  cache01       63%  [OK]
+  web01         45%  [OK]
+
+  Average: 71.6%
+  Summary: 2 OK  |  2 WARNING  |  1 CRITICAL
+============================================

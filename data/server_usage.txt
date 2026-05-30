@@ -1,0 +1,5 @@
+web01,45
+web02,82
+db01,91
+cache01,63
+backup01,77
